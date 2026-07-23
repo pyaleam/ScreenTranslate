@@ -4,6 +4,9 @@ A floating overlay that OCRs and translates any on-screen text in real time into
 
 Perfect for untranslated visual novels, games, apps, and any on-screen text.
 
+
+![Test](src/example.gif)
+
 ## Features
 
 - Frameless always-on-top window — drag via `⋮⋮` handle, resize from bottom-right
