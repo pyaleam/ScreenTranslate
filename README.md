@@ -6,7 +6,7 @@ Perfect for untranslated visual novels, games, apps, and any on-screen text.
 
 ## Features
 
-- 🪟 Frameless always-on-top window — drag via `⋮⋮` handle, resize from bottom-right
+- Frameless always-on-top window — drag via `⋮⋮` handle, resize from bottom-right
 - Swappable OCR engine for different languages
 - Swappable LLM backend (DeepSeek / OpenAI / Ollama / custom compatible APIs)
 - Customizable target language
