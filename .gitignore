@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Florence-2 model files (large, download separately)
+Florence-2-base/model.safetensors
+
+# Design doc (not for distribution)
+原理详解.md
+
+# OS
+.DS_Store
+Thumbs.db
